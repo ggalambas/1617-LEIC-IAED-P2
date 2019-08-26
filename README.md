@@ -5,4 +5,4 @@
 #### Language
 C
 #### How to run
-```./proj1 < ex1.in > ex1.myout```
+```./proj2 < ex1.in > ex1.myout```
