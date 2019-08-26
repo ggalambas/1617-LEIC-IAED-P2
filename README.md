@@ -2,10 +2,18 @@
 ## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
 2nd Project, Product Warehouse
 <br><br>
+
 #### Language
 C
-#### How to run
-```
-gcc -Wall -o proj2 *.c
-./proj2 < test01.in > test01.myout
-```
+
+#### Compile
+```gcc -Wall -o proj2 *.c```
+
+#### Run
+```./proj2 < teste01.in > teste01.myout```
+
+#### Run using the script run.sh
+```./run.sh teste01.in```
+
+#### Run using the script runall.sh
+```./runall.sh```
