@@ -5,4 +5,7 @@
 #### Language
 C
 #### How to run
-```./proj2 < ex1.in > ex1.myout```
+```
+gcc -Wall -o proj2 *.c
+./proj2 < test01.in > test01.myout
+```
